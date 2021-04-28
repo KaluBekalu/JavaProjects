@@ -1,5 +1,6 @@
 import java.rmi.registry.*;
 
+//Server App
 public class StudServer  {
     public static void main (String args[]){
         try{
